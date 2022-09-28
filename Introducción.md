@@ -1,15 +1,17 @@
-#VRML
+# VRML
 
 VRML por sus siglas en inglés (Virtual Reality Modeling Languaje) es un lenguaje para la creación de entornos virtuales en tercera dimensión
 
-##Ejecución 
+## Ejecución 
 
 VRML puede ser ejecutado en dos plataformas principales:
- 1. FreeWRL
- 2. Cortona3d
+ 1. [FreeWRL](https://freewrl.sourceforge.io/)
+ 2. [Cortona3d](https://www.cortona3d.com/en/cortona3d-viewers-windows)
  
 En mi experiencia personal si es que el mundo virtual no va a llevar ningún tipo de archivo adjunto puede usarl FreeWRL, en caso contrario recomiendo Cortona 3d
 
-##Bibliografía
+## Bibliografía
 
-Algunos recursos que personalmente recomiendo para comenzar con 
+Algunos recursos que personalmente recomiendo para comenzar con VRML son:
+
+
