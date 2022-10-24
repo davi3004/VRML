@@ -3,7 +3,7 @@ Breve introducción a la programación con VRML.
 
 ___
 
-## [Introducción](./Intro/Introducción.md/) (en construcción)
+## [Introducción](./Intro/Introduccion/Introducción.md) (en construcción)
 
 ### Temas
 + Figuras básicas
