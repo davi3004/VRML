@@ -28,8 +28,9 @@ Actualmente a pesar de no ser muy usado, se sigue usando sobre todo en el ámbit
 
 ## Formato del documento VRML 
 
-El formato del documento es importante, dado a que nos ayuda a poder correrlo en cualquier software es:
+El formato del documento es importante, dado a que nos ayuda a poder correrlo en cualquier software. Lo primero que debemos tener en cuenta es el encabezado del docuemento en este caso siempre debe comenzar de la siguiente forma, ya que si no es así podría dernos problema en algún software.
 
 ```
 #VRML V2.0 utf8
 ```
+Posterior a esto ya no es necesario que tengamos que tener una estructura definida, y podemos poner directamente los comandos. 
