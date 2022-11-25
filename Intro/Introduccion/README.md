@@ -4,6 +4,8 @@ VRML por sus siglas en inglés (Virtual Reality Modeling Languaje) es un lenguaj
 
 ![Image text](VRML.jpg)
 
+___
+
 ## Ejecución 
 
 VRML puede ser ejecutado en dos plataformas principalmente:
@@ -11,6 +13,8 @@ VRML puede ser ejecutado en dos plataformas principalmente:
  2. [Cortona3d](https://www.cortona3d.com/en/cortona3d-viewers-windows)
  
 En mi experiencia personal si es que el mundo virtual no va a llevar ningún tipo de archivo adjunto puede usar FreeWRL, en caso contrario recomiendo Cortona 3d.
+
+___
 
 ## Bibliografía
 
@@ -21,6 +25,8 @@ Algunos recursos que personalmente recomiendo para comenzar con VRML son:
 + [Héctor, D., Rosso, S., & Rojas, S. (n.d.). MUNDOS VIRTUALES 3D MUNDOS VIRTUALES 3D CON VRML97 CON VRML97. ](http://www.lcc.uma.es/~galvez/ftp/libros/VRML97.pdf)
 
 Actualmente a pesar de no ser muy usado, se sigue usando sobre todo en el ámbito académico donde no existe la suficiente información para poder comenzar con su uso.
+
+___
 
 ## Editores de texto 
 
@@ -41,10 +47,14 @@ De manera oficial VS Code no cuenta con soporte para poder editar archivos VRML 
 
 Cabe aclarar que esta extensión no es exclusiva de VRML, pero sirve para este mismo. 
 
+___
+
 ## Extensión del documento VRML 
 
 La extensión de los documentos VRML es:
 >.wrl
+
+___
 
 ## Formato del documento VRML 
 
@@ -55,6 +65,7 @@ El formato del documento es importante, dado a que nos ayuda a poder correrlo en
 ```
 Posterior a esto ya no es necesario que tengamos que tener una estructura definida, y podemos poner directamente los comandos. 
 
+___
 
 ## Siguientes temas
 + [Figuras básicas](https://github.com/davi3004/VRML/blob/main/Intro/Temas/Figuras%20b%C3%A1sicas/README.md)
