@@ -58,3 +58,12 @@ El formato del documento es importante, dado a que nos ayuda a poder correrlo en
 #VRML V2.0 utf8
 ```
 Posterior a esto ya no es necesario que tengamos que tener una estructura definida, y podemos poner directamente los comandos. 
+
+
+## Siguientes temas
++ Figuras básicas
++ Texturas
++ Grupos
++ Movimiento
++ Sonido
+
