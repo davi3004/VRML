@@ -28,4 +28,8 @@ Actualmente a pesar de no ser muy usado, se sigue usando sobre todo en el ámbit
 
 ## Formato del documento VRML 
 
-El formato del documento es importante, dado a que nos ayuda a 
+El formato del documento es importante, dado a que nos ayuda a poder correrlo en cualquier software es:
+
+'''
+#hola
+'''
