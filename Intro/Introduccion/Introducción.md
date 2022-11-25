@@ -15,9 +15,11 @@ En mi experiencia personal si es que el mundo virtual no va a llevar ningún tip
 Algunos recursos que personalmente recomiendo para comenzar con VRML son:
 
 Díaz, A. (n.d.). El Placer de Programar con VRML 2.0 Lenguaje de Modelación de Realidad Virtual Contenido.
+
 [Enlace](http://www.geocities.ws/daraujo14/vrml_araujo.pdf)
 
 Héctor, D., Rosso, S., & Rojas, S. (n.d.). MUNDOS VIRTUALES 3D MUNDOS VIRTUALES 3D CON VRML97 CON VRML97. 
+
 [Enlace](http://www.lcc.uma.es/~galvez/ftp/libros/VRML97.pdf)
 
 ‌
