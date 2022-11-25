@@ -22,7 +22,4 @@ Héctor, D., Rosso, S., & Rojas, S. (n.d.). MUNDOS VIRTUALES 3D MUNDOS VIRTUALES
 
 [Enlace](http://www.lcc.uma.es/~galvez/ftp/libros/VRML97.pdf)
 
-‌
-
-‌
-
+Actualmente a pesar de no ser muy usado, se sigue usando sobre todo en el ámbito académico donde no existe la suficiente información para poder comenzar con su uso. 
