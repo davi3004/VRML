@@ -2,7 +2,7 @@
 
 VRML por sus siglas en inglés (Virtual Reality Modeling Languaje) es un lenguaje para la creación de entornos virtuales en tercera dimensión.
 
-![Image text](https://github.com/davi3004/VRML/Intro/Introduccion/VRML.jpg)
+
 
 ## Ejecución 
 
