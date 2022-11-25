@@ -43,6 +43,15 @@ De manera oficial VS Code no cuenta con soporte para poder editar archivos VRML 
 
 ![Image text](extension.jpg)
 
+Cabe aclarar que esta extensión no es exclusiva de VRML, pero sirve para este mismo. 
+
+## Extensión del documento VRML 
+
+La extensión de los documentos VRML es:
+``` 
+.wrl
+```
+
 ## Formato del documento VRML 
 
 El formato del documento es importante, dado a que nos ayuda a poder correrlo en cualquier software. Lo primero que debemos tener en cuenta es el encabezado del docuemento en este caso siempre debe comenzar de la siguiente forma, ya que si no es así podría dernos problema en algún software.
