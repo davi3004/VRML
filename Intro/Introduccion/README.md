@@ -41,7 +41,7 @@ De manera oficial VS Code no cuenta con soporte para poder editar archivos VRML 
 [X3D classic encoding (VRML) editing tool](https://marketplace.visualstudio.com/items?itemName=kagamma.cge-x3d-vscode)
    Que ya cuenta con soporte para colorear el texto de VRML y autocompletado.
 
-![Image text](/extension.jpg)
+![Image text](extension.jpg)
 
 ## Formato del documento VRML 
 
