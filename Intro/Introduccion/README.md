@@ -61,7 +61,7 @@ Posterior a esto ya no es necesario que tengamos que tener una estructura defini
 
 
 ## Siguientes temas
-+ [Figuras básicas](https://github.com/davi3004/VRML/Intro/Temas/Figuras básicas/README.md)
++ [Figuras básicas](https://github.com/davi3004/VRML/Intro/Temas/Figuras%20básicas/README.md)
 + Texturas
 + Grupos
 + Movimiento
