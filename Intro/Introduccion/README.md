@@ -48,9 +48,7 @@ Cabe aclarar que esta extensión no es exclusiva de VRML, pero sirve para este m
 ## Extensión del documento VRML 
 
 La extensión de los documentos VRML es:
-``` 
-.wrl
-```
+>.wrl
 
 ## Formato del documento VRML 
 
