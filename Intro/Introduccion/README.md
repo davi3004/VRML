@@ -24,7 +24,18 @@ Héctor, D., Rosso, S., & Rojas, S. (n.d.). MUNDOS VIRTUALES 3D MUNDOS VIRTUALES
 
 [Enlace](http://www.lcc.uma.es/~galvez/ftp/libros/VRML97.pdf)
 
-Actualmente a pesar de no ser muy usado, se sigue usando sobre todo en el ámbito académico donde no existe la suficiente información para poder comenzar con su uso. 
+Actualmente a pesar de no ser muy usado, se sigue usando sobre todo en el ámbito académico donde no existe la suficiente información para poder comenzar con su uso.
+
+## Editores de texto 
+
+Existen dos formas de editar archivos VRML que tengan coloreado. 
+
+ 1. [VrmlPad](https://vrmlpad.softonic.com/) 
+Personalmente no recomiendo esta opción, debido a que no existe un enlace oficial.
+ 3.  [Visual Studio Code (con extensiones)](https://code.visualstudio.com/)
+De manera oficial VS Code no cuenta con soporte para poder editar archivos VRML con coloreado, entonces para ello recomiendo instalar la siguiente extensión:
+[X3D classic encoding (VRML) editing tool](https://marketplace.visualstudio.com/items?itemName=kagamma.cge-x3d-vscode)
+Que ya cuenta con soporte para colorear el texto de VRML y autocompletado.
 
 ## Formato del documento VRML 
 
